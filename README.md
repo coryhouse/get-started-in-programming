@@ -20,3 +20,4 @@ Here's a list of resources for learning programming. Know other resources? Pleas
 ## Books
 [Self-education for Web Developers](http://www.amazon.com/Self-education-Web-Developers-Develop-Applications-ebook/dp/B017632IYY)  
 [Learn to Program from Scratch](http://www.amazon.com/Learn-Program-Scratch-Introduction-Programming/dp/1593275439/ref=sr_1_4?ie=UTF8&qid=1448208246&sr=8-4&keywords=beginning+programming)  
+[A Smarter Way to Learn JavaScript])http://www.amazon.com/Smarter-Way-Learn-JavaScript-technology/dp/1497408180/ref=sr_1_10?ie=UTF8&qid=1448208246&sr=8-10&keywords=beginning+programming)  
