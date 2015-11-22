@@ -2,7 +2,7 @@
 Here's a list of resources for learning programming. Know other resources? Please submit a pull request.
 
 ## Beginner Online
-[freecodecamp.com](http://www.freecodecamp.com)  
+[FreeCodeCamp.com](http://www.freecodecamp.com)  
 [Codecadamy](https://www.codecademy.com)  
 [Node School](http://nodeschool.io)  
 [Microsoft Virtual Academy](https://mva.microsoft.com)  
