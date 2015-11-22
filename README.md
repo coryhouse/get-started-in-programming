@@ -6,8 +6,9 @@ Here's a list of resources for learning programming. Know other resources? Pleas
 [Codecadamy](https://www.codecademy.com)  
 [Node School](http://nodeschool.io)  
 [Microsoft Virtual Academy](https://mva.microsoft.com)  
-[Scratch](https://scratch.mit.edu) (for kids) There are [many alternatives](http://wiki.scratch.mit.edu/wiki/Alternatives_to_Scratch)  
-[code.org](https://code.org)
+[code.org](https://code.org)  
+[Scratch](https://scratch.mit.edu) (for kids) There are [many alternatives](http://wiki.scratch.mit.edu/wiki/Alternatives_to_Scratch) 
+[Alice.org](http://www.alice.org/index.php) (for kids)  
 
 ## Intermediate to Advanced Online
 [Pluralsight](http://www.pluralsight.com)  
