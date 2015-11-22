@@ -3,6 +3,7 @@ Here's a list of resources for learning programming. Know other resources? Pleas
 
 ## Beginner Online
 [freecodecamp.com](http://www.freecodecamp.com)  
+[Codecadamy](https://www.codecademy.com)  
 [Node School](http://nodeschool.io)  
 [Microsoft Virtual Academy](https://mva.microsoft.com)  
 [Scratch](https://scratch.mit.edu) (for kids) There are [many alternatives](http://wiki.scratch.mit.edu/wiki/Alternatives_to_Scratch)  
@@ -15,7 +16,8 @@ Here's a list of resources for learning programming. Know other resources? Pleas
 [InfoQ](http://www.infoq.com)  
 [Clean Coders](http://www.cleancoders.com)  
 [Frontend Masters](https://frontendmasters.com)  
-[Egghead](http://egghead.io) 
+[Egghead](http://egghead.io)  
+[Long list of language specific resources](http://regoapps.tumblr.com/post/48809989663/for-those-who-keep-asking-me-where-you-can-learn-a)  
 
 ## In-person
 [Grand Circus Bootcamp](http://www.grandcircus.co)  
