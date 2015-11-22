@@ -9,9 +9,10 @@ Here's a list of resources for learning programming. Know other resources? Pleas
 [code.org](https://code.org)
 
 ## Intermediate to Advanced Online
-[Treehouse](https://teamtreehouse.com)  
 [Pluralsight](http://www.pluralsight.com)  
+[Treehouse](https://teamtreehouse.com)  
 [Coursera](https://www.coursera.org/courses?query=programming)  
+[InfoQ](http://www.infoq.com)
 [Frontend Masters](https://frontendmasters.com)  
 [Egghead](http://egghead.io) 
 
