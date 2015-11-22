@@ -13,6 +13,7 @@ Here's a list of resources for learning programming. Know other resources? Pleas
 [Treehouse](https://teamtreehouse.com)  
 [Coursera](https://www.coursera.org/courses?query=programming)  
 [InfoQ](http://www.infoq.com)
+[Clean Coders](http://www.cleancoders.com)
 [Frontend Masters](https://frontendmasters.com)  
 [Egghead](http://egghead.io) 
 
